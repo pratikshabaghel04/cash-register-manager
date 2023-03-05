@@ -29,7 +29,6 @@ function calculateChange(amountToBeReturned) {
         noOfNotes[i].innerText = numberOfNotes;
     }
 }
-
 function hideMessage() {
     message.style.display = "none";
 }
