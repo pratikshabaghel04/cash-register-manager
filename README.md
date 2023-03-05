@@ -11,4 +11,4 @@
  2.Minimum number of notes will be displayed in the table below.
 
  # Live Project
- 
+ https://cashregistermnge.netlify.app/
